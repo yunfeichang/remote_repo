@@ -1,3 +1,6 @@
 #!/usr/bin/python
-print ("heelo")
-print ("heelo")
+print ("hello")
+print ("hello")
+print ("123456")
+print ("123456")
+print ("123456")
